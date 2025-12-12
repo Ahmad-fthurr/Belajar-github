@@ -1,1 +1,1 @@
-Langkah-Lakngkah menjalankan project ini adalah:
+Langkah-Langkah menjalankan project ini adalah:
